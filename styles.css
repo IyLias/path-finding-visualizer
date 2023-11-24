@@ -1,0 +1,14 @@
+#grid-container {
+    display: grid;
+    grid-template-columns: repeat(90, 30px); /* Adjust the number and size of columns as needed */
+    grid-template-rows: repeat(40, 30px);    /* Adjust the number and size of rows as needed */
+    gap: 1px;
+    border: 1px solid #ccc;
+}
+
+.grid-item {
+    width: 30px;
+    height: 30px;
+    border: 1px solid #eee;
+    background-color: #fff;
+}
