@@ -10,12 +10,6 @@ document.addEventListener('DOMContentLoaded', function () {
 
     function createGrid(){
 
-        const CELL_SIZE = 30;
-
-        // Adjust the grid dimensions as needed
-        const NUM_ROWS = 40;
-        const NUM_COLS = 90;
-
         gridContainer.innerHTML = '';
 
         // Create the grid
