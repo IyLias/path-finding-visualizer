@@ -10,3 +10,6 @@ visualizing all kinds of search algorithms
  
 
 * add various obstacles which affects searching
+
+
+* extend to 3d space 
